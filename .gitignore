@@ -1,2 +1,8 @@
+# Mengabaikan file .env di mana saja (termasuk server/.env)
 .env
-node_modules
+*.env
+
+# Atau menentukan path spesifik ke folder server
+server/.env
+server/node_modules/
+node_modules/
