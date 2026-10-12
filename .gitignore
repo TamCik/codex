@@ -4,5 +4,4 @@
 
 # Atau menentukan path spesifik ke folder server
 server/.env
-server/node_modules/
 node_modules/
